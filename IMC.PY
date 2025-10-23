@@ -20,3 +20,4 @@ elif IMC> 35 and IMC <= 40:
 else:
    print("obesidade morbida")
    
+   
